@@ -1,0 +1,8 @@
+[mtm@taylors-MacBook-Pro-2:greenclarity(master)]$ go run check.go
+panic: #Def_1.Setup.TestItem: conflicting values false and true
+
+goroutine 1 [running]:
+main.main()
+        /Users/mtm/pdev/taylormonacelli/greenclarity/check.go:42 +0x28e
+exit status 2
+[mtm@taylors-MacBook-Pro-2:greenclarity(master)]$ 

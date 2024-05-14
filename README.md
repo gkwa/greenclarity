@@ -1,0 +1,2 @@
+- https://github.com/cue-lang/cue/discussions/2155#discussioncomment-4262667
+- https://go.dev/play/p/b4S-VWK-yWR
