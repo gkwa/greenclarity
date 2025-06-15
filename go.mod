@@ -2,7 +2,7 @@ module example.com/hello
 
 go 1.22.0
 
-require cuelang.org/go v0.13.0
+require cuelang.org/go v0.13.1
 
 require (
 	github.com/cockroachdb/apd/v3 v3.2.1 // indirect
